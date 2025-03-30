@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hello!
 
-<!--
-**segiITU/segiITU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile. Having fun and trying out stuff!
 
-Here are some ideas to get you started:
+<details>
+<summary>⚡️ More about my projects</summary>
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Evaluating LLMs on Danish idioms]()
+
+![Metaphor translator]()
+
+![Datasets]()
+
+</details>
