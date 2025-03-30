@@ -6,10 +6,10 @@ Welcome to my profile. Having fun and trying out stuff!
 <summary>⚡️ More about my projects</summary>
 <br />
 
-![Evaluating LLMs on Danish idioms]()
+Evaluating LLMs on Danish idioms
 
-![Metaphor translator]()
+Metaphor translator
 
-![Datasets]()
+Datasets
 
 </details>
